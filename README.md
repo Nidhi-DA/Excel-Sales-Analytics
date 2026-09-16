@@ -1,4 +1,4 @@
-# Excel Sales & Financial Analytics Project
+# Excel Sales & Finance Analytics Project
 
 ## Sales Analysis & Reporting :
 
